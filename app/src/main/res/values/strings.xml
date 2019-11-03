@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RCVMVVM</string>
+    <string name="light_mode">Light Mode</string>
+    <string name="theme_name_hint">Theme Hint</string>
+</resources>
